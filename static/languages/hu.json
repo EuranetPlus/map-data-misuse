@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hol érzik az európaiak a személyes adatokkal való visszaélést leginkább sújtva?",
+  "subtitle": "2026-ban az uniós válaszadók 47%-a nevezte meg a személyes adatokkal való visszaélést az őket leginkább érintő online problémák egyikeként, szemben a 2024-es 46%-kal.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az Eurobarométer 572. számú különkiadásában 2026. február 5. és március 1. között 26 494, 15 év feletti embert kérdeztek meg az EU-ban. A válaszadók legfeljebb három, az online platformokkal kapcsolatos problémát választhattak ki, amelyek véleményük szerint a legnagyobb személyes hatással voltak rájuk.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Speciális Eurobarométer SP572 (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
