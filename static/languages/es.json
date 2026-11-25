@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿En qué áreas se sienten más afectados los europeos por el uso indebido de datos personales?",
+  "subtitle": "En 2026, el 47% de los encuestados de la UE mencionaron el uso indebido de datos personales como uno de los problemas en línea que más les afectan, frente al 46% en 2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "El Eurobarómetro 572, una edición especial del mismo, entrevistó a 26.494 personas mayores de 15 años en toda la UE entre el 5 de febrero y el 1 de marzo de 2026. Los participantes podían seleccionar hasta tres cuestiones relacionadas con las plataformas en línea que, a su juicio, tenían el mayor impacto personal.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarómetro especial SP572 (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
