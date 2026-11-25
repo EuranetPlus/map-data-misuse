@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Kde sa Európania cítia najviac postihnutí zneužívaním osobných údajov?",
+  "subtitle": "V roku 2026 uviedlo 47 % respondentov EÚ zneužívanie osobných údajov ako jeden z online problémov, ktoré ich najviac ovplyvňujú, čo je nárast oproti 46 % v roku 2024.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "V rámci špeciálneho prieskumu Eurobarometer 572 sa od 5. februára do 1. marca 2026 v celej EÚ uskutočnili rozhovory s 26 494 ľuďmi vo veku 15 rokov a viac v celej EÚ. Respondenti si mohli vybrať až tri problémy týkajúce sa online platforiem, ktoré mali podľa nich najväčší osobný vplyv.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Špeciálny Eurobarometer SP572 (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
