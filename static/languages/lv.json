@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Kur eiropieši jūtas visvairāk skarti no personas datu ļaunprātīgas izmantošanas?",
+  "subtitle": "2026. gadā 47 % ES respondentu nosauca personas datu ļaunprātīgu izmantošanu par vienu no tiešsaistes problēmām, kas viņus ietekmē visvairāk, salīdzinot ar 46 % 2024. gadā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Īpašajā Eirobarometra aptaujā Nr. 572 no 2026. gada 5. februāra līdz 1. martam visā ES tika aptaujāti 26 494 cilvēki vecumā no 15 gadiem. Respondenti varēja izvēlēties līdz trim tiešsaistes platformu problēmām, kurām, viņuprāt, bija vislielākā personīgā ietekme.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Īpašais Eirobarometrs SP572 (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
