@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cá mothaíonn Eorpaigh is mó a mbíonn mí-úsáid sonraí pearsanta thíos leis?",
+  "subtitle": "In 2026, d’ainmnigh 47% de fhreagróirí an AE mí-úsáid sonraí pearsanta mar cheann de na saincheisteanna ar líne a mbíonn tionchar is mó acu orthu, suas ó 46% in 2024.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Rinne Eurobarometer speisialta 572 agallamh le 26,494 duine a bhí 15 bliana d’aois agus níos sine ar fud an AE ón 5 Feabhra go dtí an 1 Márta 2026. D’fhéadfadh freagróirí suas le trí shaincheist ardáin ar líne a roghnú a raibh an tionchar pearsanta ba mhó acu dar leo.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eorabharaiméadar Speisialta SP572 (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
