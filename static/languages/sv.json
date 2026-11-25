@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Var känner sig européer mest drabbade av missbruk av personuppgifter?",
+  "subtitle": "År 2026 angav 47 % av de svarande i EU missbruk av personuppgifter som ett av de onlineproblem som påverkar dem mest, en ökning från 46 % år 2024.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "I den särskilda Eurobarometerundersökningen 572 intervjuades 26 494 personer i åldern 15 år och äldre i hela EU mellan den 5 februari och den 1 mars 2026. Respondenterna kunde välja upp till tre frågor om onlineplattformar som de ansåg ha störst personlig inverkan.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Special Eurobarometer SP572 (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
