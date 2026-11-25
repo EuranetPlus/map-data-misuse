@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Fejn iħossuhom l-Ewropej l-aktar affettwati mill-użu ħażin tad-dejta personali?",
+  "subtitle": "Fl-2026, 47% ta’ dawk li wieġbu fl-UE semmew l-użu ħażin tad-dejta personali bħala waħda mill-kwistjonijiet online li l-aktar jaffettwawhom, żieda minn 46% fl-2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-Ewrobarometru Speċjali 572 intervista 26,494 persuna ta’ 15-il sena jew aktar madwar l-UE mill-5 ta’ Frar sal-1 ta’ Marzu 2026. Dawk li wieġbu setgħu jagħżlu sa tliet kwistjonijiet ta’ pjattaformi online li ħassew li kellhom l-akbar impatt personali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Ewrobarometru Speċjali SP572 (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
