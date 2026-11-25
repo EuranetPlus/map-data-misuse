@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kje se Evropejci počutijo najbolj prizadete zaradi zlorabe osebnih podatkov?",
+  "subtitle": "Leta 2026 je 47 % anketirancev v EU navedlo zlorabo osebnih podatkov kot eno od spletnih težav, ki jih najbolj prizadenejo, kar je več kot 46 % leta 2024.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "V posebni raziskavi Eurobarometer 572 je bilo od 5. februarja do 1. marca 2026 po vsej EU anketiranih 26.494 ljudi, starih 15 let in več. Anketiranci so lahko izbrali do tri vprašanja spletnih platform, za katera so menili, da imajo nanje največji osebni vpliv.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Posebni Eurobarometer SP572 (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
