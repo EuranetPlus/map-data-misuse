@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Où les Européens se sentent-ils le plus touchés par l'utilisation abusive des données personnelles ?",
+  "subtitle": "En 2026, 47 % des personnes interrogées dans l'UE ont cité l'utilisation abusive des données personnelles comme l'un des problèmes en ligne qui les affectent le plus, contre 46 % en 2024.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "L'Eurobaromètre spécial 572 a interrogé 26 494 personnes âgées de 15 ans et plus dans l'UE du 5 février au 1er mars 2026. Les répondants pouvaient sélectionner jusqu'à trois problèmes de plateforme en ligne qui, selon eux, avaient le plus grand impact personnel.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobaromètre spécial SP572 (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
