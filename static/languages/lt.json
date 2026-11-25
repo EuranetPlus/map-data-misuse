@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kur europiečiai jaučiasi labiausiai paveikti asmens duomenų netinkamo naudojimo?",
+  "subtitle": "2026 m. 47 % ES respondentų įvardijo netinkamą asmens duomenų naudojimą kaip vieną iš labiausiai juos veikiančių internetinių problemų, palyginti su 46 % 2024 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Specialioje „Eurobarometro“ apklausoje Nr. 572 nuo 2026 m. vasario 5 d. iki kovo 1 d. visoje ES buvo apklausti 26 494 asmenys nuo 15 metų amžiaus. Respondentai galėjo pasirinkti iki trijų internetinių platformų problemų, kurios, jų manymu, turėjo didžiausią asmeninį poveikį.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Specialus „Eurobarometro“ tyrimas SP572 (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
