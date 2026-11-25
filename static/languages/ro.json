@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Unde se simt europenii cei mai afectați de utilizarea abuzivă a datelor cu caracter personal?",
+  "subtitle": "În 2026, 47% dintre respondenții din UE au menționat utilizarea abuzivă a datelor cu caracter personal ca fiind una dintre problemele online care îi afectează cel mai mult, față de 46% în 2024.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Sondajul special Eurobarometru 572 a intervievat 26.494 de persoane cu vârsta de 15 ani și peste din întreaga UE în perioada 5 februarie - 1 martie 2026. Respondenții au putut selecta până la trei probleme legate de platformele online pe care le considerau a avea cel mai mare impact personal.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurobarometru special SP572 (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
