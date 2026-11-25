@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Gdje se Europljani osjećaju najviše pogođenima zlouporabom osobnih podataka?",
+  "subtitle": "U 2026. godini, 47% ispitanika u EU-u navelo je zlouporabu osobnih podataka kao jedan od online problema koji ih najviše pogađa, u odnosu na 46% u 2024. godini.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "U posebnom istraživanju Eurobarometra 572 intervjuirano je 26 494 osoba u dobi od 15 i više godina diljem EU-a od 5. veljače do 1. ožujka 2026. Ispitanici su mogli odabrati do tri problema s online platformama za koje su smatrali da imaju najveći osobni utjecaj.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Posebni Eurobarometar SP572 (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
